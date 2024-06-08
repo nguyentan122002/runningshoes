@@ -41,8 +41,6 @@ body{
     background: white;
 }
 
-
-
 .heading{
     text-align: center;
     color:#fff;
@@ -652,8 +650,6 @@ section{
     padding:2rem 7%;
 }
 
-
-
 @keyframes slide {
     0%{
         background-image: url(../images/slider/1.jpg);
@@ -687,16 +683,6 @@ section{
     }
 
 }
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width:991px){
 
